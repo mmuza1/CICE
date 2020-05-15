@@ -1,3 +1,6 @@
 [submodule "icepack"]
 	path = icepack
 	url = git@github.com:mmuza1/Icepack.git
+[submodule "Icepack"]
+	path = Icepack
+	url = git@github.com:mmuza1/Icepack.git
