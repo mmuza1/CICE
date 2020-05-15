@@ -1,3 +1,3 @@
 [submodule "icepack"]
 	path = icepack
-	url = https://github.com/cice-consortium/Icepack
+	url = git@github.com:mmuza1/Icepack.git
